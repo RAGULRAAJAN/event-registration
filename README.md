@@ -284,6 +284,7 @@ color: black;
 ```
 
 ## OUTPUT:
-![Alt text](ex09.output.jpg)
+![ex09 output](https://github.com/RAGULRAAJAN/event-registration/assets/147473144/91e4a468-d941-4d2a-a7b0-7eb804820a41)
+
 
 ## Result:
