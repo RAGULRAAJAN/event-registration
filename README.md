@@ -288,3 +288,4 @@ color: black;
 
 
 ## Result:
+The Program to design ,develope and display a web application for event registration is completed successfully.
